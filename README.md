@@ -1,0 +1,1 @@
+Manifests changed for Opentelemetry instrumentation
